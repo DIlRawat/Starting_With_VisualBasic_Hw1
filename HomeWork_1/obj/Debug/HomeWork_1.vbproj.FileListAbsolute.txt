@@ -1,0 +1,11 @@
+C:\Users\dilbd\source\repos\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.exe.config
+C:\Users\dilbd\source\repos\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.exe
+C:\Users\dilbd\source\repos\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.pdb
+C:\Users\dilbd\source\repos\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.xml
+C:\Users\dilbd\source\repos\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.vbprojAssemblyReference.cache
+C:\Users\dilbd\source\repos\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.Resources.resources
+C:\Users\dilbd\source\repos\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.vbproj.GenerateResource.cache
+C:\Users\dilbd\source\repos\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.exe
+C:\Users\dilbd\source\repos\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.xml
+C:\Users\dilbd\source\repos\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.pdb
+C:\Users\dilbd\source\repos\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.RentalChargesForm.resources
